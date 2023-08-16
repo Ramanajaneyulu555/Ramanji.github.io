@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Project</title>
+</head>
+<body bgcolor="#D4E2D4">
+    <center>
+        <h1>PROJECTS</h1>
+    </center>
+    <FIEldset>
+        <legend><font size="20"></font>
+            <h3>Paralysis patient health care system using IOT.
+               </h3>
+        </font> </legend>
+        
+        
+            <p> 1.The Paralysis Patient Healthcare System using IoT project aims to develop a comprehensive
+                healthcare system that utilizes IoT (Internet of Things) technology to provide efficient and
+                personalized care for patients with paralysis.
+                2.This system integrates various IoT devices and sensors to monitor and assist patients in their
+                daily activities, ensuring their well-being and improving their quality of life.
+               </P>
+    </FIEldset>
+    <br>
+    <br>
+    <FIELDset>
+        <legend><font size="20"></font>
+            <h3>Wireless Transmitter and Receiver Using RF modules.
+             
+    </h3>
+        </font> </legend>
+        
+           <p>1.The RF Transmitter and Receiver project aims to establish a reliable wireless communication link
+            using RF modules. It consists of an RF transmitter module that converts input data into RF signals
+            for transmission, and an RF receiver module that receives and decodes these signals.
+            2.By utilizing pre-designed transmitter and receiver circuits, the project simplifies the process of
+            wireless communication over short to medium distances, offering flexibility and convenience in
+            various applications such as home automation, wireless sensor networks, and remote control
+            systems
+              </P>
+    </FIELDset>
+    
+           
+
+</body>
+</html>

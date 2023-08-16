@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CERTIFICATE</title>
+</head>
+<body bgcolor="#FFE17B">
+    <center><h2>CERTIFICATES</h2></center>
+    
+    <fieldset> 
+        <legend><center>
+            <h2>CERTIFICATES</h2>
+        </center></legend>
+        
+    <ul><li>Certified by me Pro Pearson.
+    </li><br>
+    <li>Certified by Infosys Spring Board Presentation Skills, Speak up, Email writing Skills.
+    </li><br>
+    <li>C programming certificate from hebeon technologies.</li><br>
+    
+    </ul>
+    <center><h3></h3></center></fieldset>
+   
+</body>
+</html>

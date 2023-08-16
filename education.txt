@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>EDUCATION INFORMATION</title>
+</head>
+<body bgcolor="#C4C1A4">
+    <h2><u>EDUCATION</u> <u>INFORMATION</u></h2>
+    <table border="2">
+        <tr>
+            <th>QUALIFICATION </th>
+            <th>INSTITUTE</th>
+            <th>BOARD/UNIVERSITY</th>
+            <th>YOP</th>
+            <th>CGPA</th>
+        </tr>
+        <tr>
+            <td>B.TECH</td>
+            <td>G Pulla Reddy Engineering College
+                (Autonomous), Kurnool</td>
+            <td>JNTU-A, Ananthapuramu</td>
+            <td>2023</td>
+            <td>7.99</td>
+        </tr>
+        <tr>
+            <td>INTERMEDIATE (M.P.C)</td>
+            <td>Jayarama Junior College,
+                Porumamilla</td>
+            <td>Board of Intermediate Education, AP</td>
+            <td>2019</td>
+            <td>9.79(CGPA)</td>
+        </tr>
+        <tr>
+            <td>SSC</td>
+            <td>Ravindra Bharathi School, Kadapa</td>
+            <td>Board of Secondary Education,AP</td>
+            <td>2017</td>
+            <td>9.7(GPA)</td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>

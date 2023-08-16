@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Web Page</title>
+    <link rel="icon" href="image.webp" target="_blank">
+</head>
+<body>
+    <h2 align="center"></h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <img align="left" src="download.jpeg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+       <font font-color:"#6F61C0">
+             <a href="aboutme.html" target="_blank">About Me</a>&nbsp;&nbsp;
+             <a href="education.html" target="_blank">Education Details</a>&nbsp;&nbsp;
+             <a href="projects.html" target="_blank">Project Details</a>&nbsp;&nbsp;
+             <a href="certificates.html" target="_blank">certificates</a>&nbsp;&nbsp;
+             <a href="contact.html" target="_blank">Contact Me</a>&nbsp;&nbsp;
+            </font>
+            <br><br><br><br><br><br>
+            <br><br><br><br><br><br>
+            <br><br><br><br>
+<font size="30" color="#116D6E">
+    <center>WELCOME TO MY PRORTFOLIO</center>
+</font><br>
+<font>
+    <center size="12" color="#6C9BCF"><a href="aboutme.html" target="_blank">GET START</a></center>
+</font>
+</body>
+</html>
